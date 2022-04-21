@@ -1,0 +1,9 @@
+{
+  "name": "TuristApp",
+  "description": "Esta aplicación tiene como objetivo mejorar la experiencia del turista en la ciudad de Madrid",
+  "createdTime": 1650266748985,
+  "lastUpdated": 1650391781944,
+  "creator": "vcarrero.mg",
+  "icon": "images/icon.jpeg",
+  "thumbnail": "images/thumbnail.jpeg"
+}
